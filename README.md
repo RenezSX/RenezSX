@@ -1,4 +1,4 @@
-### <h1>Olá eu sou o Vinícius!</h1>
+### <h1>Olá eu sou Vinícius!</h1>
 
 <div align="center">
   <img alt="Programador" width="100%" src="https://i.ibb.co/1KX8yQL/sss2.gif">
@@ -9,11 +9,11 @@
 <div>
   <a href="https://github.com/RenezSX">
     <img
-      height="180em"
+      height="150em"
       src="https://github-readme-stats.vercel.app/api?username=RenezSX&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"
     />
     <img
-      height="180em"
+      height="150em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenezSX&layout=compact&langs_count=16&theme=gotham"
     />
   </a>
