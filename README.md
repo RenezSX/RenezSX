@@ -20,7 +20,7 @@
 </div>
 <hr/>
 
-- 🌱 Estou estudando: TypeScript e NextJS
+- 🌱 Estou estudando: TypeScript, ReactJS e NextJS
 - 💬 Pergunte-me sobre: Desenvolvimento web ...
 
 <a href = "mailto:viniciusrenectt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
